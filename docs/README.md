@@ -1,4 +1,4 @@
-This repository was forked from novaspirit to be used as a power efficient home server based on a raspberry pi 4 and to learn the basics of Docker through the use of Portainer.
+This repository was forked from novaspirit to be used as a power efficient home server based on a raspberry pi 4 and to learn the basics of Docker through the use of Portainer. Original readme will be left below to preserve installation instructions.
 
 # Pi-Hosted Portainer Template V2
 
