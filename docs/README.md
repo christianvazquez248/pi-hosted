@@ -1,6 +1,9 @@
 This repository was forked from novaspirit to be used as a power efficient home server based on a raspberry pi 4 and to learn the basics of Docker through the use of Portainer. Currently the server is largely being used to manage downloads, backups, and media. The server can always have its use case expanded in the future for purposes such as home automation and home lab. A screenshot of the dashboard that links to all of the containerized applications is below:
 ![alt text](https://raw.githubusercontent.com/christianvazquez248/pi-hosted/master/images/Homer%20Dash.png)
 
+Containers were installed through a combination of Portainer app templates and manual installs where a template was not readily available.
+![alt text](https://raw.githubusercontent.com/christianvazquez248/pi-hosted/master/images/Containers.png)
+
 Original readme will be left below to preserve installation instructions.
 
 # Pi-Hosted Portainer Template V2
